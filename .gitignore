@@ -1,3 +1,9 @@
+mlruns
+pretrain_checkpoints
+qa_checkpoints
+pair_checkpoints
+clf_checkpoints
+
 # Python
 __pycache__/
 *.py[cod]
